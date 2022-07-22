@@ -144,9 +144,7 @@ The following command lets you run a game of Snake with a trained model up to st
 
 Here is the result obtained:
 
-<video src="video/output.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
+https://user-images.githubusercontent.com/50330674/180476836-eb2c9121-02a8-423d-b292-b8f1ab9f08c7.mp4
 
 ## Author
 
